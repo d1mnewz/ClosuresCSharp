@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_LocalFunction", "01_LocalFunction\01_LocalFunction.csproj", "{B32EBEEE-6279-45EA-8A66-EE7101BE02B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AnonymousFunctions", "02_AnonymousFunctions\02_AnonymousFunctions.csproj", "{611F4ED1-CD6E-4515-9B38-2A17CD410AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Lambdas", "03_Lambdas\03_Lambdas.csproj", "{9C8793C0-DCDA-4989-930B-8632F870A668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32EBEEE-6279-45EA-8A66-EE7101BE02B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32EBEEE-6279-45EA-8A66-EE7101BE02B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32EBEEE-6279-45EA-8A66-EE7101BE02B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32EBEEE-6279-45EA-8A66-EE7101BE02B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611F4ED1-CD6E-4515-9B38-2A17CD410AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611F4ED1-CD6E-4515-9B38-2A17CD410AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611F4ED1-CD6E-4515-9B38-2A17CD410AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611F4ED1-CD6E-4515-9B38-2A17CD410AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8793C0-DCDA-4989-930B-8632F870A668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8793C0-DCDA-4989-930B-8632F870A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8793C0-DCDA-4989-930B-8632F870A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8793C0-DCDA-4989-930B-8632F870A668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

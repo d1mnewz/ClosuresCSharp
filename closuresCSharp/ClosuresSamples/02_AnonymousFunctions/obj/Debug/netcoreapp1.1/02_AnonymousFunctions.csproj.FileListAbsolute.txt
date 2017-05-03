@@ -1,0 +1,9 @@
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\bin\Debug\netcoreapp1.1\02_AnonymousFunctions.deps.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\bin\Debug\netcoreapp1.1\02_AnonymousFunctions.runtimeconfig.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\bin\Debug\netcoreapp1.1\02_AnonymousFunctions.runtimeconfig.dev.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\bin\Debug\netcoreapp1.1\02_AnonymousFunctions.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\obj\Debug\netcoreapp1.1\02_AnonymousFunctions.AssemblyInfo.cs
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\bin\Debug\netcoreapp1.1\02_AnonymousFunctions.pdb
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\obj\Debug\netcoreapp1.1\02_AnonymousFunctions.csprojResolveAssemblyReference.cache
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\obj\Debug\netcoreapp1.1\02_AnonymousFunctions.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\02_AnonymousFunctions\obj\Debug\netcoreapp1.1\02_AnonymousFunctions.pdb

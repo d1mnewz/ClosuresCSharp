@@ -1,0 +1,9 @@
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\bin\Debug\netcoreapp1.1\01_LocalFunction.deps.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\bin\Debug\netcoreapp1.1\01_LocalFunction.runtimeconfig.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\bin\Debug\netcoreapp1.1\01_LocalFunction.runtimeconfig.dev.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\bin\Debug\netcoreapp1.1\01_LocalFunction.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\bin\Debug\netcoreapp1.1\01_LocalFunction.pdb
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\obj\Debug\netcoreapp1.1\01_LocalFunction.csprojResolveAssemblyReference.cache
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\obj\Debug\netcoreapp1.1\01_LocalFunction.AssemblyInfo.cs
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\obj\Debug\netcoreapp1.1\01_LocalFunction.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\01_LocalFunction\obj\Debug\netcoreapp1.1\01_LocalFunction.pdb

@@ -1,0 +1,9 @@
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\bin\Debug\netcoreapp1.1\03_Lambdas.deps.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\bin\Debug\netcoreapp1.1\03_Lambdas.runtimeconfig.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\bin\Debug\netcoreapp1.1\03_Lambdas.runtimeconfig.dev.json
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\bin\Debug\netcoreapp1.1\03_Lambdas.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\bin\Debug\netcoreapp1.1\03_Lambdas.pdb
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\obj\Debug\netcoreapp1.1\03_Lambdas.csprojResolveAssemblyReference.cache
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\obj\Debug\netcoreapp1.1\03_Lambdas.AssemblyInfo.cs
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\obj\Debug\netcoreapp1.1\03_Lambdas.dll
+C:\Users\d1mne\Documents\BitBucket\closuresCSharp\ClosuresSamples\03_Lambdas\obj\Debug\netcoreapp1.1\03_Lambdas.pdb
